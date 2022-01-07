@@ -11,7 +11,7 @@
 
 ## Overview
 
-Testimonial Section with Grid System.
+Social Proof Section.
 
 ### The challenge
 
